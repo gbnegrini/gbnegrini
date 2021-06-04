@@ -8,6 +8,9 @@ Check [my website](https://gbnegrini.com/) to know a little more about me! :thou
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Best biomedical and health data science books and resources](https://gbnegrini.com/post/best-biomedical-health-data-science-resources/)
+- [Biomedical text natural language processing (BioNLP) using scispaCy](https://gbnegrini.com/post/biomedical-text-nlp-scispacy-named-entity-recognition-medical-records/)
+- [Tolkien character or prescription drug name?](https://gbnegrini.com/post/tolkien-character-or-prescription-drug-neural-networks/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

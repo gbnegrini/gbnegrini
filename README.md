@@ -6,7 +6,7 @@ My interests are mostly related to biological and health sciences, including dat
 Check [my website](https://gbnegrini.com/) to know a little more about me! :thought_balloon:
 
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Best biomedical and health data science books and resources](https://gbnegrini.com/post/best-biomedical-health-data-science-resources/)
 - [Biomedical text natural language processing (BioNLP) using scispaCy](https://gbnegrini.com/post/biomedical-text-nlp-scispacy-named-entity-recognition-medical-records/)

@@ -13,8 +13,8 @@ Check [my website](https://gbnegrini.com/) to know a little more about me! :thou
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to run FreeSurfer on Windows with WSL2](https://gbnegrini.com/post/how-to-run-freesurfer-windows-wsl/)
-- [Best biomedical and health data science books and resources](https://gbnegrini.com/post/best-biomedical-health-data-science-resources/)
-- [Biomedical text natural language processing &lpar;BioNLP&rpar; using scispaCy](https://gbnegrini.com/post/biomedical-text-nlp-scispacy-named-entity-recognition-medical-records/)
-- [Tolkien character or prescription drug name?](https://gbnegrini.com/post/tolkien-character-or-prescription-drug-neural-networks/)
+- [How to run FreeSurfer on Windows with WSL2](https://biomedicaldata.science/blog/how-to-run-freesurfer-windows-wsl/)
+- [Best biomedical and health data science books and resources](https://biomedicaldata.science/blog/best-biomedical-health-data-science-resources/)
+- [Biomedical text natural language processing &lpar;BioNLP&rpar; using scispaCy](https://biomedicaldata.science/blog/biomedical-text-nlp-scispacy-named-entity-recognition-medical-records/)
+- [Tolkien character or prescription drug name?](https://biomedicaldata.science/blog/tolkien-character-or-prescription-drug-neural-networks/)
 <!-- BLOG-POST-LIST:END -->

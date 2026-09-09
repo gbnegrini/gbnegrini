@@ -13,6 +13,7 @@ Check [my website](https://gbnegrini.com/) to know a little more about me! :thou
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Virtual Electrophysiology Lab, rebuilt for the browser](https://biomedicaldata.science/blog/virtual-electrophysiology-lab/)
 - [How to run FreeSurfer on Windows with WSL2](https://biomedicaldata.science/blog/how-to-run-freesurfer-windows-wsl/)
 - [Best biomedical and health data science books and resources](https://biomedicaldata.science/blog/best-biomedical-health-data-science-resources/)
 - [Biomedical text natural language processing &lpar;BioNLP&rpar; using scispaCy](https://biomedicaldata.science/blog/biomedical-text-nlp-scispacy-named-entity-recognition-medical-records/)
